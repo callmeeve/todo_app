@@ -1,6 +1,3 @@
-Here is the revised `README.md` with the missing sections and some formatting corrections:
-
-```markdown
 # Todo List Mobile App
 
 A simple and intuitive Todo List mobile application built with Flutter and Firebase. This app allows users to manage their tasks efficiently with features like task creation, deletion, and filtering by date.
