@@ -12,9 +12,9 @@ A simple and intuitive Todo List mobile application built with Flutter and Fireb
 
 ## Screenshots
 
-![Home Screen](assets/screenshots/home_screen.jpg)
-![Add Task Screen](assets/screenshots/add_task_screen.jpg)
-![Settings Screen](assets/screenshots/settings_screen.jpg)
+<img src="assets/screenshots/home_screen.jpg" alt="Home Screen" width="300" height="600">
+<img src="assets/screenshots/add_task_screen.jpg" alt="Add Task Screen" width="300" height="600">
+<img src="assets/screenshots/settings_screen.jpg" alt="Settings Screen" width="300" height="600">
 
 ## Getting Started
 
