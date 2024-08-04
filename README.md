@@ -28,7 +28,7 @@ A simple and intuitive Todo List mobile application built with Flutter and Fireb
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/todo_app.git
+   git clone https://github.com/callmeeve/todo_app.git
    cd todo_app
    ```
 
