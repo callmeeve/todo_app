@@ -28,8 +28,8 @@ A simple and intuitive Todo List mobile application built with Flutter and Fireb
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/todo_list_app.git
-   cd todo_list_app
+   git clone https://github.com/yourusername/todo_app.git
+   cd todo_app
    ```
 
 2. **Install dependencies:**
